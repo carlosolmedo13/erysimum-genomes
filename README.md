@@ -1,4 +1,4 @@
-# Genome assembies of <i>Erysimum incanum</i> (Ei) and <i>Erysimum wilczekianum</i> (Ewi)
+# Genome assemblies of <i>Erysimum incanum</i> (Ei) and <i>Erysimum wilczekianum</i> (Ewi)
 
 We present the first drafts of genome sequences of <i>Erysimum incanum</i> and <i>Erysimum wilczekianum</i> combining long and short read sequencing techiniques. We employed RNAseq as well to do the gneome annotation of both genomes.
 
