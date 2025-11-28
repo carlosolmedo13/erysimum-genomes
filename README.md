@@ -3,9 +3,10 @@
 We present the first drafts of genome sequences of <i>Erysimum incanum</i> and <i>Erysimum wilczekianum</i> combining long and short read sequencing techiniques. We employed RNAseq as well to do the gneome annotation of both genomes.
 
 For <i>Erysimum incanum</i>, we used ONT MinION sequences and Illumina HiSeq short reads. We obtained a first assembly with Wtdbg2 and polished with Pilon. Scaffolding step was done using RagTag and the genome of <i>Erysimum cheiranthoides</i> available on [erysimum.org](erysimum.org) as template.
+[Click here](https://drive.google.com/drive/folders/1wGoPRKzp2WPcyO7hmkAuTlfh7_MqJMvs?usp=drive_link) to access to genome files.
 
 For <i>Erysimum wilczekianum</i>, we used PacBio HiFi sequences and Illumina HiSeq short reads.  We obtained a first assembly with hifiasm and polished with Pilon. Scaffolding step was done using RagTag and the genome of <i>Erysimum cheiranthoides</i> as template too.
-
+[Click here]([https://drive.google.com/drive/folders/1wGoPRKzp2WPcyO7hmkAuTlfh7_MqJMvs?usp=drive_link](https://drive.google.com/drive/folders/1X5tqM05JVx54V0geaSbwKWU9XqYUVYTy?usp=sharing)) to access to genome files.
 
 Both genomes were analysed using [this script](https://github.com/ISUgenomics/common_scripts/blob/master/new_Assemblathon.pl) from Genome Informatics Facility. Quality was assessed via BUSCO sequences. We tracked repeated sequences too using RepeatModeler and RepeatMasker. 
 
